@@ -1,4 +1,6 @@
+//Elaborado Por Camilo José Martínez & Alberto Luis Vigna
 package com.javeriana
+
 
 trait Pagos {
   def calculoComision(reportVentas: Double): Double = {
